@@ -1,0 +1,19 @@
+
+public class App_01 {
+
+	public static void main(String[] args) {
+		int n = 0;
+		String virgula = ",";	
+		
+		while(n <= 10) {
+			
+			if(n == 10) {
+				virgula = "";
+			}
+			
+			System.out.print(n + virgula);
+			n++;
+		}
+	}
+
+}

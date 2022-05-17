@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.senac.rj.locadora.servicos.LocacaoService"/>
+    <fullyQualifiedTypeName name="br.senac.rj.locadora.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="br.senac.rj.locadora.entidades.Filme"/>
+    <fullyQualifiedTypeName name="br.senac.rj.locadora.entidades.Locacao"/>
+    <fullyQualifiedTypeName name="br.senac.rj.locadora.utilidades.DataUtil"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+</qualifiedTypeNameHistroy>

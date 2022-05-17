@@ -1,0 +1,12 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		String nome;
+		
+		nome = "Lucas";
+		
+		System.out.println("O nome é " + nome);
+	}
+
+}

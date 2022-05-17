@@ -1,0 +1,15 @@
+
+public class App_01 {
+
+	public static void main(String[] args) {
+		int n = 0;
+		
+		System.out.println("Valor passado: " + args[0]);
+		
+		while(n <= 10) {
+			System.out.println(n);
+			n++;
+		}
+	}
+
+}
