@@ -1,8 +1,7 @@
 package animais;
 
-public class Gato extends Pet {
+public class Pet extends Animal {
 	public String brincar() {
 		return "o gato está brincando...";
 	}
-
 }
